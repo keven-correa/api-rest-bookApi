@@ -1,0 +1,90 @@
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\ProductsApi.exe
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\ProductsApi.deps.json
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\ProductsApi.runtimeconfig.json
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\ProductsApi.runtimeconfig.dev.json
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\ProductsApi.dll
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\ref\ProductsApi.dll
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\ProductsApi.pdb
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.csprojAssemblyReference.cache
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.AssemblyInfoInputs.cache
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.AssemblyInfo.cs
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.csproj.CoreCompileInputs.cache
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\staticwebassets\ProductsApi.StaticWebAssets.Manifest.cache
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\staticwebassets\ProductsApi.StaticWebAssets.xml
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\scopedcss\bundle\ProductsApi.styles.css
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.RazorTargetAssemblyInfo.cache
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.csproj.CopyComplete
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.dll
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ref\ProductsApi.dll
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.pdb
+C:\Users\Keven\OneDrive\Escritorio\Products API\ProductsApi\obj\Debug\net5.0\ProductsApi.genruntimeconfig.cache
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\ProductsApi.exe
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\ProductsApi.deps.json
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\ProductsApi.runtimeconfig.json
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\ProductsApi.runtimeconfig.dev.json
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\ProductsApi.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\ref\ProductsApi.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\ProductsApi.pdb
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.csprojAssemblyReference.cache
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.AssemblyInfoInputs.cache
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.AssemblyInfo.cs
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.csproj.CoreCompileInputs.cache
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\staticwebassets\ProductsApi.StaticWebAssets.Manifest.cache
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\staticwebassets\ProductsApi.StaticWebAssets.xml
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\scopedcss\bundle\ProductsApi.styles.css
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.RazorTargetAssemblyInfo.cache
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.csproj.CopyComplete
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ref\ProductsApi.dll
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.pdb
+C:\Users\Keven\OneDrive\Escritorio\Books Rest Api\LibraryAPI\obj\Debug\net5.0\ProductsApi.genruntimeconfig.cache
